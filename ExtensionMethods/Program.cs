@@ -1,7 +1,6 @@
 ﻿/// Notes
 /// Extension methods allow you to add functionality from existing classes
 /// 
-using System;
 
 namespace ExtentionMethods
 {
@@ -13,6 +12,10 @@ namespace ExtentionMethods
 
             var shortenedPost = post.Shorten(2);
             Console.WriteLine(shortenedPost);
+
+            // Most often instead of creating exention methods, we will be using the ones that come from other packages:
+            IEnumerable<int> numbers = new List<int>() { 1, 5, 3, 18, 12 };
+            numbers.Max(); // max is an extensio method.
         }
     }
 
