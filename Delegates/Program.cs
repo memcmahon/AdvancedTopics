@@ -3,6 +3,8 @@
 // A delegate is a reference (or pointer) to a function.
 // Allows us to create extensible and flexible applications (like frameworks)
 
+// .NET comes with built in delegates - System.Action (for methods that return void) & System.Func (for methods that return object(s))
+
 namespace Delegates
 {
     class Program
@@ -11,7 +13,9 @@ namespace Delegates
         {
             var processor = new PhotoProcessor();
             var filters = new PhotoFilters();
-            PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+            // this delegate can include any Method that matches the signature indicated in the delegate declaration.
+            //PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+            Action<Photo> filterHandler = filters.ApplyBrightness;
             filterHandler += filters.ApplyContrast;
             filterHandler += RemoveRedEyeFilter;
 
