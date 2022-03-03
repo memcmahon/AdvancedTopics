@@ -5,6 +5,10 @@
 
 // .NET comes with built in delegates - System.Action (for methods that return void) & System.Func (for methods that return object(s))
 
+// Often you could either use an Interface or a Delegate to organize this type of problem.  Generally, use a delegate when:
+// - an eventing design pattern is used
+// - the caller doesn't need to access other properties or methods on the object implementing the method.
+
 namespace Delegates
 {
     class Program
