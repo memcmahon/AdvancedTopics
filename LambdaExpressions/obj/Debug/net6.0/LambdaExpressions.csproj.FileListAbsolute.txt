@@ -1,0 +1,14 @@
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.exe
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.deps.json
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.runtimeconfig.json
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\bin\Debug\net6.0\ref\LambdaExpressions.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.pdb
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\ref\LambdaExpressions.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.pdb
+C:\Users\megan\Source\Repos\AdvancedTopics\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.genruntimeconfig.cache
