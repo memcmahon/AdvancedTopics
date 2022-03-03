@@ -28,6 +28,7 @@ namespace Generics
         // where T : new() (it has to have a default constructor)
     }
 
+    // Nullable is already a generic struct in System.Nullable
     public class Nullable<T> where T : struct
     {
         // Property
