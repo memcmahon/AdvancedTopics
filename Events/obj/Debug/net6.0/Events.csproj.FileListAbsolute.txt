@@ -1,0 +1,15 @@
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\bin\Debug\net6.0\Events.exe
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\bin\Debug\net6.0\Events.deps.json
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\bin\Debug\net6.0\Events.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\bin\Debug\net6.0\ref\Events.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\bin\Debug\net6.0\Events.pdb
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.csproj.AssemblyReference.cache
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\ref\Events.dll
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.pdb
+C:\Users\megan\Source\Repos\AdvancedTopics\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache

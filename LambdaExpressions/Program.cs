@@ -3,6 +3,9 @@
 // We use them for convenience.
 
 // Syntax: args => expression
+//       : () => ...
+//       : x => ...
+//       : (x, y, z) => ...
 
 // to use a lambda, we need to assign it to a delegate
 
