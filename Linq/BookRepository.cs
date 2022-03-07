@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace LinqExploration
 {
     public class BookRepository
-    {
-        public List<Book> GetBooks()
+    { 
+        public IEnumerable<Book> GetBooks()
         {
             return new List<Book>
             { 
